@@ -1,5 +1,5 @@
 {
-	"version": "1",
+	"version": "2",
 	"author": "Data-0",
 	"authorURL": "https://github.com/Data-0",
 	"supportURL": "",
@@ -21,9 +21,7 @@
 				"Quality of Life",
 				"Gameplay"
 			],
-			"gameversion": [
-				"vanilla"
-			],
+			"gameversion": [],
 			"images": [
 				"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/Fat%20destroy.png"
 			],
@@ -66,9 +64,7 @@
 			"categories": [
 				"Quality of Life"
 			],
-			"gameversion": [
-				"vanilla"
-			],
+			"gameversion": [],
 			"images": [
 				"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/woodTools.png"
 			],
@@ -109,9 +105,7 @@
 			"categories": [
 				"Gear Items"
 			],
-			"gameversion": [
-				"vanilla"
-			],
+			"gameversion": [],
 			"images": [
 				"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/fishingline.png"
 			],
