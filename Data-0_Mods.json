@@ -1,5 +1,5 @@
 {
-	"version": "1",
+	"version": "2",
 	"author": "Data-0",
 	"authorURL": "https://github.com/Data-0",
 	"supportURL": "",
@@ -18,9 +18,12 @@
 			"description": "Despawn any low condition fat around the world, so it doesn't just stay ruined outside your door forever.",
 			"tags": "",
 			"categories": [
-				"Gameplay","Quality Of Life"
+				"Quality of Life",
+				"Gameplay"
 			],
-			"gameversion": [],
+			"gameversion": [
+				"vanilla"
+			],
 			"images": [
 				"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/Fat%20destroy.png"
 			],
@@ -30,7 +33,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Updated for 2.51",
 				"notes": "",
 				"issues": ""
 			},
@@ -47,7 +50,6 @@
 			"aliases": [],
 			"replaces": []
 		},
-
 		{
 			"type": "mod",
 			"version": "1.1.0",
@@ -62,19 +64,19 @@
 			"description": "Makes the woodworking tools weight almost nothing. The player shouldn't be punished for wanting to decorate their home",
 			"tags": "",
 			"categories": [
-				"Quality Of Life"
+				"Quality of Life"
 			],
-			"gameversion": [],
+			"gameversion": [
+				"vanilla"
+			],
 			"images": [
 				"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/woodTools.png"
 			],
-			"dependencies": [
-				"ModComponent"
-			],
+			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Updated for 2.51",
 				"notes": "",
 				"issues": ""
 			},
@@ -91,7 +93,6 @@
 			"aliases": [],
 			"replaces": []
 		},
-
 		{
 			"type": "mod",
 			"version": "1.1.0",
@@ -108,7 +109,9 @@
 			"categories": [
 				"Gear Items"
 			],
-			"gameversion": [],
+			"gameversion": [
+				"vanilla"
+			],
 			"images": [
 				"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/fishingline.png"
 			],
@@ -118,7 +121,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Updated for 2.51",
 				"notes": "",
 				"issues": ""
 			},
