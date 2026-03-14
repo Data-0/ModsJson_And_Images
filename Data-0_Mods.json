@@ -104,7 +104,7 @@
 			"updated": "2026-03-11",
 			"downloadURL": "https://github.com/Data-0/Fishing-Line/releases/download/Release2/FishingLine.modcomponent",
 			"modURL": "https://github.com/Data-0/Fishing-Line",
-			"description": "A small fishing line item that spawns around the world in containers. Gives the player some fishing lines on harvest.",
+			"description": "A small item that spawns around containers in the world. Usually found in fishing huts. It gives some fishing lines when broken down.",
 			"tags": "",
 			"categories": [
 				"Gear Items"
